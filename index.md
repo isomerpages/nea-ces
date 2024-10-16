@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: CleanEnviro Summit Singapore
+description: CESG is a global platform for environmental solutions, organised by
+  Singapore's National Environment Agency. The 2024 edition focused on climate
+  action, resource circularity, public hygiene, and innovation.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
