@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <h3>Partner Agencies</h3>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.enterprisesg.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/16.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enterprise Singapore</div><div class="isomer-card-description">www.enterprisesg.gov.sg</div><div class="isomer-card-link">   </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.enterprisesg.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/16.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enterprise Singapore</div><div class="isomer-card-link">https://www.enterprisesg.gov.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www.jtc.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -16,10 +16,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">JTC</div>
-<div class="isomer-card-description">www.jtc.gov.sg</div>
-<div class="isomer-card-link"></div>
+<div class="isomer-card-link">www.jtc.gov.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www.linkedin.com/company/uss-ieo" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/partners_logo_resizing_template__square_340px___5_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Urban Solutions &amp; Sustainability Innovation &amp; Enterprise Office (USS IEO)</div><div class="isomer-card-description">www.linkedin.com/company/uss-ieo</div><div class="isomer-card-link">   </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www.linkedin.com/company/uss-ieo" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/partners_logo_resizing_template__square_340px___5_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Urban Solutions &amp; Sustainability Innovation &amp; Enterprise Office (USS IEO)</div><div class="isomer-card-link">www.linkedin.com/company/uss-ieo</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www.wsg.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -28,8 +27,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Workforce Singapore</div>
-<div class="isomer-card-description">www.wsg.gov.sg</div>
-<div class="isomer-card-link"></div>
+<div class="isomer-card-link">www.wsg.gov.sg</div>
 </div>
 </a>
 </div>
