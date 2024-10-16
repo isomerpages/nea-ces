@@ -1,9 +1,9 @@
-title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+title: CleanEnviro Summit Singapore
+url: https://www.cleanenvirosummit.gov.sg
+favicon: /images/cesg_logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#a7c11f"
+  secondary-color: "#59b7dd"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: CESG is a global platform for environmental solutions, organised by
+  Singapore's National Environment Agency. The 2024 edition focused on climate
+  action, resource circularity, public hygiene, and innovation.
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +55,7 @@ staging: https://staging-lite.d3jdqxshao084l.amplifyapp.com
 prod: https://master.d3bccsr0upmfhp.amplifyapp.com
 facebook-pixel: ""
 resources_name: clean-green
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""
