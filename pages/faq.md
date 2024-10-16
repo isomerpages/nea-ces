@@ -3,7 +3,7 @@ title: FAQ
 permalink: /faq/
 variant: tiptap
 ---
-<h3><strong>What is the website about?</strong></h3>
+<h3>What is the website about?</h3>
 <p>The CleanEnviro Summit Singapore (CESG) serves as a global networking
 platform for thought leaders, senior government officials, regulators,
 and policy makers. It aims to identify, develop, and share practical and
@@ -13,7 +13,7 @@ caused by climate change, while also involving industry captains.</p>
 2012, CESG will focus on a different theme at every edition and deep-dive
 into pillars to address environmental sustainability agenda.</p>
 <p>Further details are available at About Us.</p>
-<h3><strong>Where can I find more information on CESG programmes?</strong></h3>
+<h3>Where can I find more information on CESG programmes?</h3>
 <p>Information on the programme for CESG can be found under Environment Expo
 and Conference &amp; Programme.</p>
 <h3>Where can I find out about CESG sponsors and partners?</h3>
